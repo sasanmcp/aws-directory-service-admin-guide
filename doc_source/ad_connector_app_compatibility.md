@@ -15,3 +15,5 @@ The following is a list of compatible AWS applications and services:
 
 **Note**  
 Amazon RDS is compatible with AWS Managed Microsoft AD only, and is not compatible with AD Connector\. For more information, see the AWS Microsoft AD section in the [AWS Directory Service FAQs](https://aws.amazon.com/directoryservice/faqs/#microsoft-ad) page\. 
+
+Propose changes
